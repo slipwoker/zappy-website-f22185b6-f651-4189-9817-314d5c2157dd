@@ -1,0 +1,88 @@
+# אגם — Generative Engine Optimization Map
+
+> היי אפשר אתר
+
+---
+
+## Pages
+
+### בית
+https://-f22185b6.zappy5.app
+מחפשים בילוי משפחתי בלתי נשכח? באגם תמצאו פעילויות חוץ ידידותיות לסביבה, אטרקציות לילדים וחוויות טבע מרעננות. הצטרפו אלינו להרפתקה ירוקה שכל המשפחה תאהב!
+
+### שירותים
+https://-f22185b6.zappy5.app/services
+מגוון רחב של פעילויות ידידותיות לסביבה לילדים בישראל: סדנאות יצירה בטבע, מסלולי חקר ופינות חי. התאימו את החוויה המושלמת למשפחה שלכם ובואו ליהנות מזמן איכות בטבע!
+
+### אודות
+https://-f22185b6.zappy5.app/about
+אגם נולד מאהבה למשפחה ולטבע. אנחנו יוצרים מרחב קסום של פעילויות חוץ שמחברות ילדים והורים לאדמה. הכירו את החזון שמביא חיוכים לאלפי מבקרים בכל עונה!
+
+### שאלות נפוצות
+https://-f22185b6.zappy5.app/faq
+מתי מומלץ להגיע? מה להביא? איך מתאימים פעילות לכל גיל? כל התשובות לשאלות שלכם על בילוי משפחתי באגם במקום אחד. תכננו את היום המושלם בקלות ובביטחון!
+
+### צור קשר
+https://-f22185b6.zappy5.app/contact
+מוכנים לחוויית טבע משפחתית בלתי נשכחת? צרו קשר עם צוות אגם עוד היום לקבלת מידע על פעילויות, הזמנות והמלצות מותאמות אישית. ההרפתקה שלכם מתחילה בלחיצה אחת!
+
+### Products
+https://-f22185b6.zappy5.app/products
+המוצרים שלנו - אגם
+
+### Product Detail
+https://-f22185b6.zappy5.app/product/:slug
+פרטי המוצר - אגם
+
+### Category
+https://-f22185b6.zappy5.app/category/:slug
+מוצרים - אגם
+
+### תודה - אגם
+https://-f22185b6.zappy5.app/thank-you
+אגם - תודה - אגם
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f22185b6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f22185b6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f22185b6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אגם
+היי אפשר אתר
+
+## Target Audience
+- משפחות עירוניות
+- מקצוענים צעירים
+- צרכנים ידידותיים לסביבה
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f22185b6.zappy5.app/sitemap.xml
+- Robots: https://-f22185b6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f22185b6.zappy5.app/llms-full.txt
+- Products (JSON): https://-f22185b6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-f22185b6.zappy5.app/product-feed.xml
