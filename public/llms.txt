@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://-f22185b6.zappy5.app
+https://example.com
 מחפשים בילוי משפחתי בלתי נשכח? באגם תמצאו פעילויות חוץ ידידותיות לסביבה, אטרקציות לילדים וחוויות טבע מרעננות. הצטרפו אלינו להרפתקה ירוקה שכל המשפחה תאהב!
 
 ### שירותים
-https://-f22185b6.zappy5.app/services
+https://example.com/services
 מגוון רחב של פעילויות ידידותיות לסביבה לילדים בישראל: סדנאות יצירה בטבע, מסלולי חקר ופינות חי. התאימו את החוויה המושלמת למשפחה שלכם ובואו ליהנות מזמן איכות בטבע!
 
 ### אודות
-https://-f22185b6.zappy5.app/about
+https://example.com/about
 אגם נולד מאהבה למשפחה ולטבע. אנחנו יוצרים מרחב קסום של פעילויות חוץ שמחברות ילדים והורים לאדמה. הכירו את החזון שמביא חיוכים לאלפי מבקרים בכל עונה!
 
 ### שאלות נפוצות
-https://-f22185b6.zappy5.app/faq
+https://example.com/faq
 מתי מומלץ להגיע? מה להביא? איך מתאימים פעילות לכל גיל? כל התשובות לשאלות שלכם על בילוי משפחתי באגם במקום אחד. תכננו את היום המושלם בקלות ובביטחון!
 
 ### צור קשר
-https://-f22185b6.zappy5.app/contact
+https://example.com/contact
 מוכנים לחוויית טבע משפחתית בלתי נשכחת? צרו קשר עם צוות אגם עוד היום לקבלת מידע על פעילויות, הזמנות והמלצות מותאמות אישית. ההרפתקה שלכם מתחילה בלחיצה אחת!
 
 ### Products
-https://-f22185b6.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - אגם
 
 ### Product Detail
-https://-f22185b6.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - אגם
 
 ### Category
-https://-f22185b6.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - אגם
 
 ### תודה - אגם
-https://-f22185b6.zappy5.app/thank-you
+https://example.com/thank-you
 אגם - תודה - אגם
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-f22185b6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-f22185b6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-f22185b6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -81,8 +81,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-f22185b6.zappy5.app/sitemap.xml
-- Robots: https://-f22185b6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-f22185b6.zappy5.app/llms-full.txt
-- Products (JSON): https://-f22185b6.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-f22185b6.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
